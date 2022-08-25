@@ -25,7 +25,7 @@ function Projects(props) {
 
       {/* Code Quiz */}
       <Thumbnail
-        link="https://sarah-safarzadeh.github.io/code-quiz/"
+        link=
         image=""
         title="Code Quiz"
         category="Website"
@@ -33,24 +33,20 @@ function Projects(props) {
 
       {/* Work Day Scheduler */}
       <Thumbnail
-        link="https://sarah-safarzadeh.github.io/work-day-scheduler/"
-        image="https://raw.githubusercontent.com/Sarah-Safarzadeh/work-day-scheduler/master/assets/images/screenshot.png"
+        link=
         title="Work Day Scheduler"
         category="Website"
       />
 
       {/* Password Generator */}
       <Thumbnail
-        link="https://sarah-safarzadeh.github.io/Password-Generator/"
-        image="https://raw.githubusercontent.com/Sarah-Safarzadeh/Password-Generator/master/Develop/Images/screenshot.png"
         title="Password Generator"
         category="Website"
       />
 
       {/* Horiseon */}
       <Thumbnail
-        link="https://sarah-safarzadeh.github.io/Horiseon/"
-        image="https://raw.githubusercontent.com/Sarah-Safarzadeh/Horiseon/master/screenshot1.png"
+        link=
         title="Horiseon"
         category="Website"
       />
